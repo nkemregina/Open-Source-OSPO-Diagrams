@@ -24,7 +24,7 @@
         <mxCell id="6" value="Apache" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="698" y="374" width="74" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="Community&#xa;" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
+        <mxCell id="7" value="Community&#xa;" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="505" y="394" width="103" height="38" as="geometry" />
         </mxCell>
         <mxCell id="8" value="Governance and Leadership" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
@@ -36,13 +36,13 @@
         <mxCell id="10" value="Maintainers, Contributors and &#xa;Users" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
           <mxGeometry x="385" y="520" width="128" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="Transparency" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="11" value="Transparency&#xa;" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="231" y="374" width="116" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="12" value="Open communication" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="12" value="Open communication" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="152" y="461" width="174" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="Open governance" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="13" value="Open governance" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="28" y="403" width="146" height="38" as="geometry" />
         </mxCell>
         <mxCell id="14" value="Collaboration" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
@@ -83,10 +83,10 @@
         <mxCell id="21" style="endArrow=none;flowAnimation=1;" parent="1" source="2" target="3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="22" style="endArrow=none;flowAnimation=1;" parent="1" source="2" target="7" edge="1">
+        <mxCell id="22" style="endArrow=none;flowAnimation=1;fontStyle=1" parent="1" source="2" target="7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="23" style="endArrow=none" parent="1" source="2" target="11" edge="1">
+        <mxCell id="23" style="endArrow=none;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;flowAnimation=1;" parent="1" source="2" target="11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="24" style="endArrow=none" parent="1" source="2" target="14" edge="1">
@@ -161,6 +161,9 @@
         </mxCell>
         <mxCell id="TN7xql7lLdcz_LLdnoFs-80" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#FFFFFF;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon9;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="540" y="411" width="33" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="TN7xql7lLdcz_LLdnoFs-81" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.eye;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="274" y="394" width="30" height="14.1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
